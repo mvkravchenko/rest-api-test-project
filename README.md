@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mvkravchenko/calculator-test.svg?branch=master)](https://travis-ci.com/mvkravchenko/rest-api-test-project)
+
 **Добавление новых тестов**
 
 Основные этапы добавления тестов:
